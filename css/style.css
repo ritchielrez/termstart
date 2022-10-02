@@ -1,6 +1,6 @@
 body {
   background-color: var(--bg);
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
   height: 100%;
   display: table-cell;
   vertical-align: middle;
@@ -10,7 +10,7 @@ p {
   margin: 10;
   pointer-events: none;
   color: var(--fg);
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
 }
 
 span {
@@ -44,13 +44,13 @@ span {
 #clock {
   float: left;
   pointer-events: none;
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
   font-size: 13px;
   color: var(--acc1);
 }
 
 html {
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
   height: 100%;
   display: table;
   margin: auto;
@@ -61,7 +61,7 @@ a {
   text-decoration: none;
   margin: 8px;
   pointer-events: auto;
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
 }
 
 a:focus,
@@ -76,7 +76,7 @@ th {
 .prompt {
   color: var(--fg);
   pointer-events: none;
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
 }
 
 .purple {
@@ -96,7 +96,7 @@ input:focus {
   background-color: var(--bg);
   font: inherit;
   margin: 0;
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
   border: none;
   color: var(--fg);
   pointer-events: none;
@@ -106,12 +106,12 @@ input:focus {
 li {
   list-style: none;
   color: var(--acc2);
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
 }
 
 .ls-item {
   color: var(--acc1);
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Comic Mono", monospace;
   padding-left: 8px;
   margin: 8px;
 }
