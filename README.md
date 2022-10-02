@@ -13,7 +13,7 @@
 ### As an extension
 
 1. Clone this repository
-   - `git clone https://github.com/yrwq/termstart`
+   - `git clone https://github.com/ritchielrez/termstart`
 
 #### Firefox
 
@@ -31,7 +31,7 @@
 
 ### As a startpage
 
-If you use a browser which doesn't support adding 3rd party extensions, you can simply add `https://yrwq.github.io/termstart` as your startpage.
+If you use a browser which doesn't support adding 3rd party extensions, you can simply add `https://ritchielrez.github.io/termstart` as your startpage.
 
 ## Usage
 
