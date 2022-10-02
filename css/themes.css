@@ -26,6 +26,14 @@ body.gruvbox-light {
   --acc2: #af3a02;
 }
 
+body.gruvbox-material {
+  --bg: #282828;
+  --bg-light: #3c3836;
+  --fg: #ebdbb2;
+  --acc1: #d8a657;
+  --acc2: #ea6962;
+}
+
 body.nord {
   --bg: #2e3440;
   --bg-light: #3b4252;
