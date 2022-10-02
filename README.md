@@ -53,17 +53,16 @@ If you use a browser which doesn't support adding 3rd party extensions, you can 
 
 ## Themes
 
-| ![gruvbox](.assets/gruvbox-dark.png) | ![gboxlight](.assets/gruvbox-light.png) | ![nord](.assets/nord.png) |
-| :-:                                  | :-:                                     | :-:                       |
-| gruvbox-dark                         | gruvbox-light                           | nord                      |
-
-| ![dracula](.assets/dracula.png) | ![vice](.assets/vice.png) | ![decaf](.assets/decaf.png) |
-| :-:                             | :-:                       | :-:                         |
-| dracula                         | vice                      | decaf                       |
-
-| ![material](.assets/material.png) | ![vice](.assets/pastel.png) | ![decaf](.assets/solarized.png) |
-| :-:                             | :-:                       | :-:                         |
-| material | pastel | solarized |
+1. Gruvbox Dark
+2. Gruvbox Light
+3. Gruvbox Material
+4. Nord
+5. Dracula
+6. Vice
+7. Decaf
+8. Pastel
+9. Solarized
+10. Tommorow
 
 ## Contributing
 
