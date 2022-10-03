@@ -18,7 +18,7 @@ function list_writer(output) {
         output
           .map(
             (item) =>
-            `<th class="ls-item"><a target='_blank' href='${links[item.key]}'>${item.key}</a></th>`
+              `<th class="ls-item"><a href='${links[item.key]}'>${item.key}</a></th>`
           )
           .join("");
     } else {
@@ -27,7 +27,7 @@ function list_writer(output) {
         half1
           .map(
             (item) =>
-            `<th class="ls-item"><a target='_blank' href='${links[item.key]}'>${item.key}</a></th>`
+              `<th class="ls-item"><a href='${links[item.key]}'>${item.key}</a></th>`
           )
           .join("");
       inner = inner + "<tr></tr>";
@@ -36,7 +36,7 @@ function list_writer(output) {
         half2
           .map(
             (item) =>
-            `<th class="ls-item"><a target='_blank' href='${links[item.key]}'>${item.key}</a></th>`
+              `<th class="ls-item"><a href='${links[item.key]}'>${item.key}</a></th>`
           )
           .join(" ");
     }
