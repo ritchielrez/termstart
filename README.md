@@ -56,13 +56,14 @@ If you use a browser which doesn't support adding 3rd party extensions, you can 
 1. Gruvbox Dark
 2. Gruvbox Light
 3. Gruvbox Material
-4. Nord
-5. Dracula
-6. Vice
-7. Decaf
-8. Pastel
-9. Solarized
-10. Tommorow
+4. Everforest
+5. Nord
+6. Dracula
+7. Vice
+8. Decaf
+9. Pastel
+10. Solarized
+11. Tommorow
 
 ## Contributing
 
