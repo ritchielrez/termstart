@@ -1,6 +1,6 @@
 body {
   background-color: var(--bg);
-  font-family: "Comic Mono", monospace;
+  font-family: "Cascadia Code", monospace;
   height: 100%;
   display: table-cell;
   vertical-align: middle;
