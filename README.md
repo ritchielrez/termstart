@@ -53,17 +53,7 @@ If you use a browser which doesn't support adding 3rd party extensions, you can 
 
 ## Themes
 
-1. Gruvbox Dark
-2. Gruvbox Light
-3. Gruvbox Material
-4. Everforest
-5. Nord
-6. Dracula
-7. Vice
-8. Decaf
-9. Pastel
-10. Solarized
-11. Tommorow
+Look into the `css/themes.css` file to learn about all the available themes.
 
 ## Contributing
 
